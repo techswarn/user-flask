@@ -1,0 +1,12 @@
+Flask-Security-Too==5.0.0
+SQLAlchemy==1.4.32
+Flask-SQLAlchemy
+Flask==2.2.5
+Flask-Login==0.6.2
+Flask-Session
+Flask-PyMongo
+gunicorn==20.1.0
+bcrypt
+openai
+pandas
+langchain
